@@ -352,6 +352,11 @@ li {
     background: #FFF;
     width: 740px;
 }
+.main-contentCV {
+  padding-top: 5vh !important;
+  background: #FFF;
+  width: 740px;
+}
 
 .main-content p {
     color: #2c2c2c;
